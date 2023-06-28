@@ -5,12 +5,7 @@
   "lazyLoadTabs": false,
   "closeExistingTabs": false,
   "websites": [
-    {
-      "url": "https://www.msn.com/pt-br?chromeless=true",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 4000
-    },
- {
+  {
       "url": "https://www.google.com/finance/?chromeless=true",
       "duration": 10,
       "tabReloadIntervalSeconds": 4000
