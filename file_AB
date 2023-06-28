@@ -15,6 +15,11 @@
       "duration": 10,
       "tabReloadIntervalSeconds": 4000
     },
+ {
+      "url": "https://news.google.com/home?hl=pt-BR&gl=BR&ceid=BR:pt-419?chromeless=true",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 4000
+    },
     {
       "url": "https://www.uol.com.br/?chromeless=true",
       "duration": 10,
