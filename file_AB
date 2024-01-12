@@ -1,23 +1,46 @@
 {
   "settingsReloadIntervalMinutes": 1,
-  "fullscreen": false,
-  "autoStart": false,
+  "fullscreen": true,
+  "autoStart": true,
   "lazyLoadTabs": false,
   "closeExistingTabs": false,
   "websites": [
-  {
-      "url": "https://www.google.com/finance/?chromeless=true",
-      "duration": 10,
+  { 
+      "url": "https://app.powerbi.com/groups/me/reports/4ab1847e-a606-402c-b2f1-e8b3ff40af01/ReportSection?chromeless=true",
+        
+https://app.powerbi.com/reportEmbed?reportId=3b714036-1df2-4ff3-bf23-9ba754dd079c&autoAuth=true&ctid=72565908-10ef-498e-b93e-c94978366018
+
+      "duration": 30,
       "tabReloadIntervalSeconds": 4000
     },
  {
-      "url": "https://news.google.com/home?hl=pt-BR&gl=BR&ceid=BR:pt-419?chromeless=true",
-      "duration": 10,
+      "url": "https://app.powerbi.com/groups/me/reports/4ab1847e-a606-402c-b2f1-e8b3ff40af01/ReportSection1655dc5c66082d57d5de?chromeless=true",
+      "duration": 30,
       "tabReloadIntervalSeconds": 4000
     },
     {
-      "url": "https://www.uol.com.br/?chromeless=true",
-      "duration": 10,
+      "url": "https://app.powerbi.com/groups/me/reports/4ab1847e-a606-402c-b2f1-e8b3ff40af01/ReportSection81c9cd7bac3939d4414a?chromeless=true",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 4000
+    },
+    {
+      "url": "https://app.powerbi.com/groups/me/reports/4ab1847e-a606-402c-b2f1-e8b3ff40af01/ReportSection1e4a8078910c790da7c8?chromeless=true",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 4000
+    },
+    {
+      "url": "https://app.powerbi.com/groups/me/reports/4ab1847e-a606-402c-b2f1-e8b3ff40af01/ReportSection26932af6be593d4e9990?chromeless=true",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 4000
+    },
+    {
+      "url": "https://app.powerbi.com/groups/me/reports/4ab1847e-a606-402c-b2f1-e8b3ff40af01/ReportSection3858f2a57c60034c87cd?chromeless=true",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 4000
+    },
+    {
+      "url": "https://app.powerbi.com/groups/me/reports/4ab1847e-a606-402c-b2f1-e8b3ff40af01/ReportSection9f2463d65da0ab10e575?chromeless=true",
+      "duration": 30,
       "tabReloadIntervalSeconds": 4000
     }
   ]
